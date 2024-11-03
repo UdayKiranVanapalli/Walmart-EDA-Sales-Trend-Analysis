@@ -1,4 +1,6 @@
-# Walmart Sales Data Analysis
+# Walmart-EDA-Sales-Trend-Analysis
+
+![Walmart Project](https://github.com/user-attachments/assets/b814736e-d4d4-400b-8180-b0b913f059bd)
 
 This project involves a comprehensive analysis of Walmart sales data to extract insights and visualize trends across branches, categories, and time periods. By using PostgreSQL for data storage and Jupyter Notebook for data analysis, the project explores Walmart sales data to identify patterns in transaction volumes, payment methods, peak times, and branch-wise performance. These insights can guide future strategies for improving sales and customer engagement.
 
@@ -133,6 +135,8 @@ The EDA process in Jupyter Notebook involved analyzing data to uncover patterns 
 ### Peak Times and Busy Days
 - **Busiest Day**: Friday recorded the highest transaction volume across branches.
 - **Peak Transaction Time**: Most transactions occurred between 12 PM and 5 PM, which may be a key period for promotional efforts.
+
+![image](https://github.com/user-attachments/assets/5f7a2f91-975e-405e-9e22-6e87b2a6389c)
 
 ## Visualizations
 The following visualizations support the key insights from the analysis:
