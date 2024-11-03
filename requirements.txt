@@ -1,0 +1,17 @@
+python
+
+libraries
+ pandas
+ matplotlib.pyplot
+ seaborn
+
+# SQL Connection dependencies
+ pymysql
+ sqlalchemy
+from sqlalchemy  import create_engine
+ psycopg2
+
+#RDMS
+
+Mysql workbench
+pgadmin 4
